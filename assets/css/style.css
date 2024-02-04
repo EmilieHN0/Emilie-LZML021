@@ -1,0 +1,44 @@
+
+   
+
+   html { background-color : #fefef9; /* l'arrière plan est de couleur beige très claire*/
+   max-width : 60%; /*largeur max est définie à 60%*/
+   margin : auto;
+    }
+   
+
+
+		img {
+			width : 10px;
+			height : 10 px;
+		}
+		
+		h1 {font-size : 2 em; /*le titre h1 fait la taille relative de 2 em, soit 2 fois plus grand que la taille normale de h1*/
+		}
+		h2 { font-size : 1 em; /*le titre h2 est de 1 em soit 1 fois plus grand que la taile normale de h2*/
+		}
+
+		#page{
+			margin-left : auto;
+			margin-right : auto;
+			width : 90 %;
+			background-color : #feebe9;
+			border-style: solid;
+			border-color : #fef2f0;	
+		}
+		
+		.entete{
+			text-align : center;
+		}
+		
+		#aboutme{
+			font-family : Georgia, "Trebuchet MS", Verdana; /*j'ai donné des styles de police différents si jamais le navigateur reconnait pas*/
+		}
+		
+		footer {
+			text-align : center;
+			background-color : #FEE5E2
+		}
+
+
+		
