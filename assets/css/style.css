@@ -9,8 +9,8 @@
 
 
 		img {
-			width : 10px;
-			height : 10 px;
+			width : 300 px;
+			height : 400 px;
 		}
 		
 		h1 {font-size : 2 em; /*le titre h1 fait la taille relative de 2 em, soit 2 fois plus grand que la taille normale de h1*/
